@@ -49,3 +49,27 @@ Ensure Python 3.10 or above is installed.
 
 ```bash
 pip install pygame
+```
+---
+## 👇 Future Improvements (Open for Contributions)
+
+- 🧍‍♂️ Player skin selection
+- 🎶 Cowboy background soundtrack
+- 🧠 Higher difficulty outlaw patterns
+- 🏹 Duel tournament mode
+- 🎯 Bullet ricochet physics
+---
+## ❤️ If You Enjoyed This Game...
+
+👉 Star ⭐ the repository
+
+👉 Fork & build your own version
+
+👉 Share it in your Python learning journey!
+
+---
+
+## 🤝 Contributing
+
+PRs and suggestions welcome!
+Feel free to open issues or feature requests. 🤠🔥
